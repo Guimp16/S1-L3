@@ -1,0 +1,4 @@
+Ho realizzato una rete interna con 6 host e due switch, e ad ogni switch ho collegato 3 host.
+Come IP Network ho usato 192.168.1.0/24 in classe C secondo il vecchio sistema di indirizzamento, che veniva usato per le reti private e piccole.
+Gli indirizzi disponibili per gli host sono da 192.168.1.1 a 192.168.1.254
+Ho impostato manualmente gli indirizzi IPv4 di ogni PC a partire da 192.168.1.2 a 192.168.1.7
